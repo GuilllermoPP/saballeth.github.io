@@ -38,6 +38,7 @@ Tiene como propósito principal soportar las líneas de investigación en admini
 - [Kevin Arias](https://github.com/KenUp06)
 - [William Yanett](https://github.com/willirez).
 - [Andres Gamero](https://github.com/AFGamero)
+- [Guillermo Parra](https://github.com/GuilllermoPP)
 
 ## 📁 Proyectos del Semillero
 
